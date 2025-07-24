@@ -156,7 +156,7 @@ If you encounter any issues or have questions:
 2. Create a new issue if your problem isn't already reported
 3. Provide detailed information about the problem
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Mobile app development
 - [ ] Investment tracking
@@ -167,7 +167,7 @@ If you encounter any issues or have questions:
 - [ ] Integration with bank APIs
 - [ ] Advanced AI financial planning
 
-## 📊 Project Structure
+##  Project Structure
 
 ```
 ai-finance-tracking-1/
